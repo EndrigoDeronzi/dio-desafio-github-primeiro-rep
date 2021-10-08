@@ -1,0 +1,46 @@
+## Links de Treinamentos
+
+
+-- Bootcamps da DIO -> Todos
+
+--DELPHI
+https://cursos.alura.com.br/course/delphi-primeiros-passos
+https://www.udemy.com/course/curso-de-delphi-10/
+
+--COMPONENTES
+https://www.devmedia.com.br/curso/componentes-devexpress/178
+
+https://www.devmedia.com.br/introducao-ao-unidac-parte-1/29399
+https://www.devmedia.com.br/introducao-ao-unidac-parte-2/29708
+
+--FAST REPORTS
+https://www.youtube.com/watch?v=5qg0TZQu3OY&list=PLxNM4ef1Bpxi109J2-yn8vfHzV2Ct6vS2
+
+--(T-SQL) SQL SERVER
+https://www.youtube.com/watch?v=ZBTgKgzeYt0&list=PLxNM4ef1BpxgXEnNbUS31ovMKtwmFgdNY
+
+Passo a Passo SQL SERVER
+https://www.youtube.com/watch?v=rX2I7OjLqWE
+
+CONECTANDO BANCO COM SQL
+https://www.udemy.com/course/mini-curso-gratis-criando-cadastro-em-delphi/learn/lecture/21432902#overview
+
+
+--DELPHI COMPLEMENTARES
+https://www.youtube.com/watch?v=rBJ43Usj0NM&list=PLxNM4ef1BpxjAZNWTpzSGmZ86XDAa_jf4
+https://www.youtube.com/watch?v=6CjoKSzeHHM&list=PLxNM4ef1BpxhAExrORrdjAUhm9krPxc-R
+https://www.youtube.com/watch?v=SSkCZNVSkIw&list=PLxNM4ef1Bpxhf2ZTyoSueLsTiVLnZ3Tal
+
+https://www.youtube.com/watch?v=rQXnC-qGKDA&list=PLxNM4ef1BpxgVbzhyxt5-DHUwKML0-Eex
+https://www.youtube.com/watch?v=5Pv9UgWgL1g&list=PLxNM4ef1BpxiXIj0EZK59xcAQx1hS_i-M
+https://www.youtube.com/watch?v=V29gksss3Mg&list=PLxNM4ef1BpxjeE_6tnv1Fwyb9o9WfhbZG&index=2
+
+
+--===========================================================================================
+C# .NET
+https://cursos.alura.com.br/formacao-vuejs
+https://cursos.alura.com.br/formacao-dotnet
+--=============================================================================================
+PHP / LARAVEL
+https://www.udemy.com/course/laravelcompleto/learn/lecture/15593236?start=0#overview
+--============================================================================================
